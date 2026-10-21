@@ -1,3 +1,7 @@
+## V12.1.02-alpha
+- Fixed LibSharedMedia "Attempt to register an invalid file" error on load (removed registration of a missing `Dragonflight_BG.tga` background).
+- Updated TOC for retail 12.1.5 (`120105`).
+
 ## V12.1.0
 - Add Party / Raid Frames.
 - Add Dedicated Augmentation Raid Frames.
